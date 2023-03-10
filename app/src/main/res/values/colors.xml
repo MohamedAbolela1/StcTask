@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="black">#FF000000</color>
+    <color name="black_opacity_30">#4D000000</color>
+    <color name="black_opacity_70">#B3000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_opacity_70">#B3FFFFFF</color>
+    <color name="lightBlack">#383838</color>
+    <color name="extraLightBlack">#292929</color>
+    <color name="lightGray">#F7F7F7</color>
+    <color name="smiLightGray">#E3E3E3</color>
+    <color name="lightGreen">#029794</color>
+    <color name="lightGreen_opacity_50">#80029794</color>
+    <color name="gray_opacity_65">#848484</color>
+    <color name="lightGreen_opacity_20">#33029794</color>
+    <color name="green">#029F02</color>
+    <color name="green_opacity_10">#1A029F02</color>
+    <color name="green_opacity_50">#80029F02</color>
+    <color name="purple">#7960DA</color>
+    <color name="purple_opacity_50">#807960DA</color>
+    <color name="lightPurple_opacity_20">#F7F5FD</color>
+    <color name="gray">#606060</color>
+    <color name="black_mana">#868686</color>
+    <color name="gray_opacity_70">#B3606060</color>
+    <color name="colorButtonStroke">#A0A0A0</color>
+    <color name="error">#e82f2f</color>
+    <color name="error_60">#99E82F2F</color>
+    <color name="semiLightGray">#D5D0D0</color>
+    <color name="darkGray">#8E8E8E</color>
+    <color name="darkGray_opacity_50">#808E8E8E</color>
+    <color name="darkGray_opacity_70">#B38E8E8E</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#d32f2f</color>
+    <color name="colorImageHover">@color/black_opacity_30</color>
+    <color name="yello">#F6D700</color>
+</resources>
