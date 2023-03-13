@@ -16,20 +16,16 @@
         "source": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/res/layout/layout_progress_hover.xml"
     },
     {
-        "merged": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
-        "source": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/res/layout/fragment_home.xml"
-    },
-    {
         "merged": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_post.xml",
         "source": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/res/layout/item_post.xml"
     },
     {
-        "merged": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
-        "source": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/res/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_product.xml",
-        "source": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/res/layout/item_product.xml"
+        "merged": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_progress_home.xml",

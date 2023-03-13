@@ -10,6 +10,8 @@ public final class BuildConfig {
   public static final int VERSION_CODE = 1;
   public static final String VERSION_NAME = "1.0.0.0-debug";
   // Field from build type: debug
+  public static final String API_KEY = "133bbe9fadd24711ba4f803aefdf492b";
+  // Field from build type: debug
   public static final String BASE_URL = "https://newsapi.org/v2/";
   // Field from build type: debug
   public static final boolean IS_PRODUCTION = false;

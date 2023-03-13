@@ -79,13 +79,13 @@ import hilt_aggregated_deps._dagger_hilt_android_internal_modules_HiltWrapper_Ac
         _dagger_hilt_android_internal_managers_ViewComponentManager_ViewWithFragmentComponentBuilderEntryPoint.class,
         _dagger_hilt_android_internal_modules_ApplicationContextModule.class,
         _dagger_hilt_android_internal_modules_HiltWrapper_ActivityModule.class,
-        _com_example_samplearch_SampleApplication_GeneratedInjector.class,
-        _com_example_samplearch_source_remote_di_RemoteHttpModule.class,
-        _com_example_samplearch_main_MainActivity_GeneratedInjector.class,
-        _com_example_samplearch_source_remote_di_RemoteModule.class,
         _com_example_samplearch_source_remote_di_NetworkUrlModule.class,
-        _com_example_samplearch_main_data_di_MainModule.class,
+        _com_example_samplearch_source_remote_di_RemoteHttpModule.class,
+        _com_example_samplearch_source_remote_di_RemoteModule.class,
         _com_example_samplearch_utils_di_UtilsModule.class,
+        _com_example_samplearch_main_data_di_MainModule.class,
+        _com_example_samplearch_SampleApplication_GeneratedInjector.class,
+        _com_example_samplearch_main_MainActivity_GeneratedInjector.class,
         _com_example_samplearch_main_presentation_MainViewModel_HiltModules_BindsModule.class,
         _com_example_samplearch_main_presentation_MainViewModel_HiltModules_KeyModule.class
     }

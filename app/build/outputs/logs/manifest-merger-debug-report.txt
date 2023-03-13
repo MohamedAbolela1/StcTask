@@ -5,8 +5,11 @@ INJECTED from /Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/mai
 INJECTED from /Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/AndroidManifest.xml:2:1-27:12
 MERGED from [androidx.databinding:viewbinding:7.0.4] /Users/mohamedabolela/.gradle/caches/transforms-3/ae12d61bbb199e576d4b805630e6c470/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/fe868270d37ddabaad924aa47553e28e/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/e16604a90d571452cc30f7e9fac0df5d/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/mohamedabolela/.gradle/caches/transforms-3/3381e569a0f507d47efd4a5e383dd1bb/transformed/jetified-fragment-ktx-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/7fa934ca910d018c8571e918c4ea0532/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/aa7817bb21e2e9cfab85643d3338b27a/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/144051d844b7a0d42d0265da64038a5c/transformed/navigation-ui-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/ee7645692b3fd82012dd4c8a58c2aa30/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/5493998cf428d6c10135997014f06279/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
@@ -18,6 +21,7 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mohamedabolela/.gra
 MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/mohamedabolela/.gradle/caches/transforms-3/23df08d546e485d7bd053bcebeedaefc/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/84e08c0f52835776a24e0487098fd057/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.5.4] /Users/mohamedabolela/.gradle/caches/transforms-3/648ce9752b7fe6e1613ed61ebede3d89/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/ffdd109fb3d6b0e022454a4b5ffe8e45/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/ae3ce28a78129ae3c71439c8fd43c3fb/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/97f760cbcb38a6ccf8f162adcaab8dee/transformed/jetified-activity-1.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/535ed8df08a3b57f68652b04e9d4e570/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -31,9 +35,9 @@ MERGED from [androidx.core:core-ktx:1.6.0] /Users/mohamedabolela/.gradle/caches/
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/mohamedabolela/.gradle/caches/transforms-3/6564b7854f21e6cb4c409d1bc6c2da94/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/1af1172f3fe5eef5613122ffc7c0b982/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/977f749aea345a1ec6135dedde7ec9cd/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/91bfde974cec723df627a609e47d9c74/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/9da1d924119cf4654babd7552800fbb6/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.window:window:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/8491ae3f6825e0c96a39cd9016a7d6e3/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/91bfde974cec723df627a609e47d9c74/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/6a920d4a99beafe69d4a412b0d5a78ac/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/4680ce5a8e83bf35f6c7c695e80caaee/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/781523c31e1713d455df3eef254cae4e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -44,12 +48,12 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/moham
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/d5d326d5b87993e75c7ad4f02e47c8fc/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/d76a54b0f86b2974fd243585911d85a5/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/faf791474d910f49bcf6410da36d856a/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamedabolela/.gradle/caches/transforms-3/df86e5b6354b13262593a3014eabe08b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/d4cf70798e3334164d1951130741b6f4/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/cb60aea82adbdbac8ab6921426fd9461/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/db767407a2514b70eccbba9ac1ee60f0/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/mohamedabolela/.gradle/caches/transforms-3/45622c5fdad76b73255462f3aadfecd8/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/1c3201fcae83b32a13a4dad81ebb4c83/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/cb60aea82adbdbac8ab6921426fd9461/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/d4cf70798e3334164d1951130741b6f4/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamedabolela/.gradle/caches/transforms-3/df86e5b6354b13262593a3014eabe08b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/db767407a2514b70eccbba9ac1ee60f0/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.4.1] /Users/mohamedabolela/.gradle/caches/transforms-3/7b1d0758dde9026d023e7d7411db43b3/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/38abce553425afb3fe828bb8112d32a4/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.8.0] /Users/mohamedabolela/.gradle/caches/transforms-3/826d50eb9014718bded239131c17c1d1/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
@@ -143,10 +147,16 @@ INJECTED from /Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/mai
 INJECTED from /Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.0.4] /Users/mohamedabolela/.gradle/caches/transforms-3/ae12d61bbb199e576d4b805630e6c470/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:7.0.4] /Users/mohamedabolela/.gradle/caches/transforms-3/ae12d61bbb199e576d4b805630e6c470/transformed/jetified-viewbinding-7.0.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/fe868270d37ddabaad924aa47553e28e/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/fe868270d37ddabaad924aa47553e28e/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/e16604a90d571452cc30f7e9fac0df5d/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/e16604a90d571452cc30f7e9fac0df5d/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/mohamedabolela/.gradle/caches/transforms-3/3381e569a0f507d47efd4a5e383dd1bb/transformed/jetified-fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/mohamedabolela/.gradle/caches/transforms-3/3381e569a0f507d47efd4a5e383dd1bb/transformed/jetified-fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/7fa934ca910d018c8571e918c4ea0532/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/7fa934ca910d018c8571e918c4ea0532/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/aa7817bb21e2e9cfab85643d3338b27a/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/aa7817bb21e2e9cfab85643d3338b27a/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/144051d844b7a0d42d0265da64038a5c/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/144051d844b7a0d42d0265da64038a5c/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/ee7645692b3fd82012dd4c8a58c2aa30/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
@@ -169,6 +179,8 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mohamedabolela/.gradle
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/84e08c0f52835776a24e0487098fd057/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.5.4] /Users/mohamedabolela/.gradle/caches/transforms-3/648ce9752b7fe6e1613ed61ebede3d89/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.5.4] /Users/mohamedabolela/.gradle/caches/transforms-3/648ce9752b7fe6e1613ed61ebede3d89/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/ffdd109fb3d6b0e022454a4b5ffe8e45/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/ffdd109fb3d6b0e022454a4b5ffe8e45/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/ae3ce28a78129ae3c71439c8fd43c3fb/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/mohamedabolela/.gradle/caches/transforms-3/ae3ce28a78129ae3c71439c8fd43c3fb/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/97f760cbcb38a6ccf8f162adcaab8dee/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
@@ -195,12 +207,12 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/mohame
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/1af1172f3fe5eef5613122ffc7c0b982/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/977f749aea345a1ec6135dedde7ec9cd/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/977f749aea345a1ec6135dedde7ec9cd/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/91bfde974cec723df627a609e47d9c74/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/91bfde974cec723df627a609e47d9c74/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/9da1d924119cf4654babd7552800fbb6/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/9da1d924119cf4654babd7552800fbb6/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.window:window:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/8491ae3f6825e0c96a39cd9016a7d6e3/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.window:window:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/8491ae3f6825e0c96a39cd9016a7d6e3/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/91bfde974cec723df627a609e47d9c74/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/mohamedabolela/.gradle/caches/transforms-3/91bfde974cec723df627a609e47d9c74/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/6a920d4a99beafe69d4a412b0d5a78ac/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/6a920d4a99beafe69d4a412b0d5a78ac/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/4680ce5a8e83bf35f6c7c695e80caaee/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -221,18 +233,18 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamedabolela/.gr
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/d76a54b0f86b2974fd243585911d85a5/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/faf791474d910f49bcf6410da36d856a/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/faf791474d910f49bcf6410da36d856a/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamedabolela/.gradle/caches/transforms-3/df86e5b6354b13262593a3014eabe08b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamedabolela/.gradle/caches/transforms-3/df86e5b6354b13262593a3014eabe08b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/d4cf70798e3334164d1951130741b6f4/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/d4cf70798e3334164d1951130741b6f4/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/cb60aea82adbdbac8ab6921426fd9461/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/cb60aea82adbdbac8ab6921426fd9461/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/db767407a2514b70eccbba9ac1ee60f0/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/db767407a2514b70eccbba9ac1ee60f0/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/mohamedabolela/.gradle/caches/transforms-3/45622c5fdad76b73255462f3aadfecd8/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/mohamedabolela/.gradle/caches/transforms-3/45622c5fdad76b73255462f3aadfecd8/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/1c3201fcae83b32a13a4dad81ebb4c83/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/mohamedabolela/.gradle/caches/transforms-3/1c3201fcae83b32a13a4dad81ebb4c83/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/cb60aea82adbdbac8ab6921426fd9461/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/cb60aea82adbdbac8ab6921426fd9461/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/d4cf70798e3334164d1951130741b6f4/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/d4cf70798e3334164d1951130741b6f4/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamedabolela/.gradle/caches/transforms-3/df86e5b6354b13262593a3014eabe08b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/mohamedabolela/.gradle/caches/transforms-3/df86e5b6354b13262593a3014eabe08b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/db767407a2514b70eccbba9ac1ee60f0/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/mohamedabolela/.gradle/caches/transforms-3/db767407a2514b70eccbba9ac1ee60f0/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.4.1] /Users/mohamedabolela/.gradle/caches/transforms-3/7b1d0758dde9026d023e7d7411db43b3/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.4.1] /Users/mohamedabolela/.gradle/caches/transforms-3/7b1d0758dde9026d023e7d7411db43b3/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mohamedabolela/.gradle/caches/transforms-3/38abce553425afb3fe828bb8112d32a4/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44

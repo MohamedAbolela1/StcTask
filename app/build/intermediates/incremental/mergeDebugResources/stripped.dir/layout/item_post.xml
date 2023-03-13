@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/imgProduct"
+        android:layout_width="@dimen/festival_item_image_width"
+        android:layout_height="@dimen/festival_item_image_height"
+        android:scaleType="fitXY"
+        tools:src="@color/green"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <TextView
+        android:id="@+id/tvAuthor"
+        style="@style/textLargeBold"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margin_xxmedium"
+        android:ellipsize="end"
+        android:textColor="@color/extraLightBlack"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/imgProduct"
+        app:layout_constraintTop_toTopOf="@id/imgProduct"
+        tools:text="NoteBook" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        style="@style/textMediumRegular"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="@dimen/margin_xxmedium"
+        android:ellipsize="end"
+        android:textColor="@color/darkGray_opacity_50"
+        app:drawableTint="@color/darkGray_opacity_50"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/imgProduct"
+        app:layout_constraintTop_toBottomOf="@+id/tvAuthor"
+        app:layout_constraintBottom_toTopOf="@+id/separator"
+        tools:text="2019-02-24 04:04:17.566515" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/separator_size"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:id="@+id/separator"
+        android:background="@color/smiLightGray"
+        app:layout_constraintTop_toBottomOf="@id/imgProduct" />
+</androidx.constraintlayout.widget.ConstraintLayout>

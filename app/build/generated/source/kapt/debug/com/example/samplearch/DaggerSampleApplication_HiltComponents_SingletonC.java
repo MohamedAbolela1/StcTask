@@ -446,7 +446,7 @@ public final class DaggerSampleApplication_HiltComponents_SingletonC extends Sam
     }
 
     @Override
-    public void injectMainActivity(MainActivity arg0) {
+    public void injectMainActivity(MainActivity mainActivity) {
     }
 
     @Override

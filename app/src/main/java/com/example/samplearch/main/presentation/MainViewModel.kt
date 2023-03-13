@@ -64,7 +64,7 @@ class MainViewModel @Inject constructor(
 
     private suspend fun executeProductsListState(): ViewState<MutableList<Post>> {
         val customizedServicesListState =
-            validateResponse { postsRepository.getPostsList("tesla","1af829535010448596f98890f16c7f9d",15,1) }
+            validateResponse { postsRepository.getPostsList(1) }
         return mapProductListState(customizedServicesListState)
     }
 

@@ -27,11 +27,13 @@ android {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             buildConfigField "String", "BASE_URL", "\"https://newsapi.org/v2/\""
+            buildConfigField("String", "API_KEY", '"133bbe9fadd24711ba4f803aefdf492b"')
             buildConfigField "boolean", "IS_PRODUCTION", "true"
         }
 
         debug {
             buildConfigField "String", "BASE_URL", "\"https://newsapi.org/v2/\""
+            buildConfigField("String", "API_KEY", '"133bbe9fadd24711ba4f803aefdf492b"')
             buildConfigField "boolean", "IS_PRODUCTION", "false"
             versionNameSuffix "-debug"
         }
@@ -85,12 +87,23 @@ dependencies {
     implementation "com.squareup.okhttp3:logging-interceptor:$okhttp3_version"
 
     // Navigation Component
-    implementation "androidx.navigation:navigation-fragment:$nav_version"
-    implementation "androidx.navigation:navigation-ui:$nav_version"
+    implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
+    implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
 
     // GLIDE
     implementation "com.github.bumptech.glide:glide:$glide"
     annotationProcessor "com.github.bumptech.glide:compiler:$glide"
     // unit test
     testImplementation "junit:junit:$junit_version"
+    testImplementation "org.mockito:mockito-core:4.9.0"
+    testImplementation 'org.mockito:mockito-inline:2.13.0'
+    testImplementation 'androidx.arch.core:core-testing:2.2.0'
+    testImplementation 'org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.0-native-mt'
+    testImplementation 'com.jraska.livedata:testing-ktx:1.2.0'
+    testImplementation "io.mockk:mockk:1.12.8"
+    testImplementation "io.mockk:mockk-agent-jvm:1.12.8"
+    testImplementation 'org.json:json:20210307'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    androidTestImplementation "io.mockk:mockk-android:1.12.8"
 }

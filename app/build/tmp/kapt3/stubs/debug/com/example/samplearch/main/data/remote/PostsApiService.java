@@ -10,7 +10,7 @@ public abstract interface PostsApiService {
     public abstract java.lang.Object getPostsList(@org.jetbrains.annotations.NotNull
     @retrofit2.http.Query(value = "q")
     java.lang.String type, @org.jetbrains.annotations.NotNull
-    @retrofit2.http.Query(value = "apikey")
+    @retrofit2.http.Query(value = "apiKey")
     java.lang.String apiKey, @retrofit2.http.Query(value = "pageSize")
     int pageSize, @retrofit2.http.Query(value = "page")
     int page, @org.jetbrains.annotations.NotNull

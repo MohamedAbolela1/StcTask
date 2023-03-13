@@ -5,7 +5,7 @@ import com.example.samplearch.main.data.remote.PostsRemoteDataSource
 import javax.inject.Inject
 
 class PostsRepository @Inject constructor(private val postsRemoteDataSource: PostsRemoteDataSource) {
-    suspend fun getPostsList(type:String,apiKey:String,pageSize:Int,page:Int): PostResponse? {
-        return postsRemoteDataSource.getPosts(type,apiKey,pageSize,page)
+    suspend fun getPostsList(page:Int): PostResponse? {
+        return postsRemoteDataSource.getPosts(page)
     }
 }
