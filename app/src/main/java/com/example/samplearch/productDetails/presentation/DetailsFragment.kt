@@ -6,7 +6,7 @@ import androidx.navigation.fragment.navArgs
 import com.example.samplearch.R
 import com.example.samplearch.base.BaseFragment
 import com.example.samplearch.databinding.FragmentDetailsBinding
-import com.example.samplearch.main.domain.model.Post
+import com.example.samplearch.home.domain.model.Post
 import com.example.samplearch.utils.ui.LoadImage
 import com.example.samplearch.utils.ui.getValidText
 

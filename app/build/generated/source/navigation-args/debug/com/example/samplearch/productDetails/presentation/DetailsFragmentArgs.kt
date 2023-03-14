@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.os.Parcelable
 import androidx.lifecycle.SavedStateHandle
 import androidx.navigation.NavArgs
-import com.example.samplearch.main.domain.model.Post
+import com.example.samplearch.home.domain.model.Post
 import java.io.Serializable
 import java.lang.IllegalArgumentException
 import java.lang.UnsupportedOperationException

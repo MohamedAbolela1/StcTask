@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.samplearch.source.remote.di.NetworkUrlModuleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-13T03:23:52" hostname="MacBook-Pro-alkhas-b-Mohamed.local" time="1.256">
+<testsuite name="com.example.samplearch.source.remote.di.NetworkUrlModuleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T01:03:21" hostname="MacBook-Pro-alkhas-b-Mohamed.local" time="1.321">
   <properties/>
-  <testcase name="given BuildConfig when providesBaseUrl then verify correct base url" classname="com.example.samplearch.source.remote.di.NetworkUrlModuleTest" time="1.256"/>
+  <testcase name="given BuildConfig when providesBaseUrl then verify correct base url" classname="com.example.samplearch.source.remote.di.NetworkUrlModuleTest" time="1.321"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

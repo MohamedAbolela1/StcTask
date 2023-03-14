@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/homeFragment"
         android:label="fragmentHome"
-        android:name="com.example.samplearch.main.presentation.HomeFragment"
+        android:name="com.example.samplearch.home.presentation.HomeFragment"
         tools:layout="@layout/fragment_home">
 
         <action
@@ -24,7 +24,7 @@
         tools:layout="@layout/fragment_details">
 
         <argument android:name="postItem"
-            app:argType="com.example.samplearch.main.domain.model.Post"/>
+            app:argType="com.example.samplearch.home.domain.model.Post"/>
 
     </fragment>
 </navigation>

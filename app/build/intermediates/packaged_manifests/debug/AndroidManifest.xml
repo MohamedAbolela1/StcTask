@@ -22,7 +22,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SampleArch" >
         <activity
-            android:name="com.example.samplearch.main.MainActivity"
+            android:name="com.example.samplearch.home.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -125,7 +125,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/moha
 		ADDED from /Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/AndroidManifest.xml:15:9-48
 	android:name
 		ADDED from /Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/AndroidManifest.xml:9:9-64
-activity#com.example.samplearch.main.MainActivity
+activity#com.example.samplearch.home.MainActivity
 ADDED from /Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/AndroidManifest.xml:16:9-24:20
 	android:exported
 		ADDED from /Users/mohamedabolela/AndroidStudioProjects/SampleTask/app/src/main/AndroidManifest.xml:17:13-36
