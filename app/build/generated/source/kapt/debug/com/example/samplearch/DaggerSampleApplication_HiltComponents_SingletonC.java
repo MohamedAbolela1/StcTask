@@ -7,14 +7,15 @@ import android.view.View;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.SavedStateHandle;
 import androidx.lifecycle.ViewModel;
-import com.example.samplearch.main.MainActivity;
-import com.example.samplearch.main.data.di.MainModule;
-import com.example.samplearch.main.data.di.MainModule_ProvideProductsApiServiceFactory;
-import com.example.samplearch.main.data.remote.PostsApiService;
-import com.example.samplearch.main.data.remote.PostsRemoteDataSource;
-import com.example.samplearch.main.data.repository.PostsRepository;
-import com.example.samplearch.main.presentation.MainViewModel;
-import com.example.samplearch.main.presentation.MainViewModel_HiltModules_KeyModule_ProvideFactory;
+import com.example.samplearch.home.MainActivity;
+import com.example.samplearch.home.data.di.MainModule;
+import com.example.samplearch.home.data.di.MainModule_ProvideProductsApiServiceFactory;
+import com.example.samplearch.home.data.remote.PostsApiService;
+import com.example.samplearch.home.data.remote.PostsRemoteDataSource;
+import com.example.samplearch.home.data.repository.PostsRepository;
+import com.example.samplearch.home.presentation.HomeFragment;
+import com.example.samplearch.home.presentation.MainViewModel;
+import com.example.samplearch.home.presentation.MainViewModel_HiltModules_KeyModule_ProvideFactory;
 import com.example.samplearch.source.remote.di.NetworkUrlModule;
 import com.example.samplearch.source.remote.di.NetworkUrlModule_ProvidesBaseUrlFactory;
 import com.example.samplearch.source.remote.di.RemoteHttpModule;
@@ -401,6 +402,10 @@ public final class DaggerSampleApplication_HiltComponents_SingletonC extends Sam
     }
 
     @Override
+    public void injectHomeFragment(HomeFragment homeFragment) {
+    }
+
+    @Override
     public DefaultViewModelFactories.InternalFactoryFactory getHiltInternalFactoryFactory() {
       return activityCImpl.getHiltInternalFactoryFactory();
     }
@@ -512,7 +517,7 @@ public final class DaggerSampleApplication_HiltComponents_SingletonC extends Sam
 
     @Override
     public Map<String, Provider<ViewModel>> getHiltViewModelMap() {
-      return Collections.<String, Provider<ViewModel>>singletonMap("com.example.samplearch.main.presentation.MainViewModel", (Provider) mainViewModelProvider);
+      return Collections.<String, Provider<ViewModel>>singletonMap("com.example.samplearch.home.presentation.MainViewModel", (Provider) mainViewModelProvider);
     }
 
     private static final class SwitchingProvider<T> implements Provider<T> {
@@ -536,7 +541,7 @@ public final class DaggerSampleApplication_HiltComponents_SingletonC extends Sam
       @Override
       public T get() {
         switch (id) {
-          case 0: // com.example.samplearch.main.presentation.MainViewModel 
+          case 0: // com.example.samplearch.home.presentation.MainViewModel 
           return (T) viewModelCImpl.mainViewModel();
 
           default: throw new AssertionError(id);

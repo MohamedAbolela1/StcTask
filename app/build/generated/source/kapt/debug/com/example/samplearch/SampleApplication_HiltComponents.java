@@ -1,8 +1,9 @@
 package com.example.samplearch;
 
-import com.example.samplearch.main.MainActivity_GeneratedInjector;
-import com.example.samplearch.main.data.di.MainModule;
-import com.example.samplearch.main.presentation.MainViewModel_HiltModules;
+import com.example.samplearch.home.MainActivity_GeneratedInjector;
+import com.example.samplearch.home.data.di.MainModule;
+import com.example.samplearch.home.presentation.HomeFragment_GeneratedInjector;
+import com.example.samplearch.home.presentation.MainViewModel_HiltModules;
 import com.example.samplearch.source.remote.di.NetworkUrlModule;
 import com.example.samplearch.source.remote.di.RemoteHttpModule;
 import com.example.samplearch.source.remote.di.RemoteModule;
@@ -213,7 +214,8 @@ public final class SampleApplication_HiltComponents {
       modules = ViewWithFragmentCBuilderModule.class
   )
   @FragmentScoped
-  public abstract static class FragmentC implements FragmentComponent,
+  public abstract static class FragmentC implements HomeFragment_GeneratedInjector,
+      FragmentComponent,
       DefaultViewModelFactories.FragmentEntryPoint,
       ViewComponentManager.ViewWithFragmentComponentBuilderEntryPoint,
       GeneratedComponent {
