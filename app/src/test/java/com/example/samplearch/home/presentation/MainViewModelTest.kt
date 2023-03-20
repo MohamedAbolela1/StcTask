@@ -42,6 +42,7 @@ class MainViewModelTest {
         coEvery { postsRepository.getPostsList(1) }.returns(getPostsResponse())
 
         // When
+        mainViewModel.getProductsServicesList()
         // init
 
         // Then

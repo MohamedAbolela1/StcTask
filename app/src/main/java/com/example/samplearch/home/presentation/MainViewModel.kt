@@ -27,11 +27,6 @@ class MainViewModel @Inject constructor(
     private val _shouldClearPreviousList = SingleLiveEvent<Boolean>()
     val shouldClearPreviousList: LiveData<Boolean> = _shouldClearPreviousList
 
-
-    init {
-        getProductsServicesList()
-    }
-
     fun refreshServicesList() {
         viewModelScope.launch {
             emitLoadingState(LoadingTypes.RefreshLoading(true))

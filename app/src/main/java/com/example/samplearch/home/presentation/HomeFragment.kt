@@ -28,6 +28,7 @@ class HomeFragment : BaseFragment<FragmentHomeBinding>() , ErrorBinding {
     private lateinit var postsAdapter: PostsAdapter
 
     override fun setup() {
+        mainViewModel.getProductsServicesList()
         setListeners()
         setupRecyclerView()
         observeViewModels()
